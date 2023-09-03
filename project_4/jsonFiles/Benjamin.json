@@ -1,0 +1,22 @@
+[
+  {
+    "CLASSNAME": "IncomingTransfer",
+    "INSTANCE": {
+      "date": "22.12.2020",
+      "amount": 20.0,
+      "description": "test2",
+      "sender": "mann1",
+      "recipient": "mann2"
+    }
+  },
+  {
+    "CLASSNAME": "IncomingTransfer",
+    "INSTANCE": {
+      "date": "21.12.2020",
+      "amount": 20.0,
+      "description": "test2",
+      "sender": "mann1",
+      "recipient": "mann2"
+    }
+  }
+]
